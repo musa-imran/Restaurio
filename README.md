@@ -43,6 +43,9 @@ A full-featured Restaurant Point of Sale (POS) and management system built with 
 ### Point of Sale — Dark Mode
 <img width="1440" height="900" alt="pos-dark" src="https://github.com/user-attachments/assets/218f7168-c4d6-4a4d-af1d-29595469ea93" />
 
+### Slips & Invoices
+<img width="1400" height="1000" alt="slips-and-invoice" src="https://github.com/user-attachments/assets/eb1b4f58-e934-48cb-a41c-f0ae5eeef088" />
+
 ### Order History
 <img width="1440" height="900" alt="orders" src="https://github.com/user-attachments/assets/bbb2eacc-7a9a-4c77-bf35-26cb869e6d51" />
 
