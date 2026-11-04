@@ -2,6 +2,8 @@
 
 A full-featured Restaurant Point of Sale (POS) and management system built with ASP.NET Core MVC. Restaurio handles everything a small-to-medium restaurant needs day-to-day: taking orders at the counter, managing tables, tracking stock and suppliers, and reviewing sales — all through a clean, fast, shadcn-inspired UI with light/dark themes.
 
+🌐 Live Demo: http://restaurio.runasp.net/
+
 ## Features
 
 **Point of Sale**
